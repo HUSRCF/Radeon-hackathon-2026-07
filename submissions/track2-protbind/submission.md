@@ -8,13 +8,15 @@
 
 **Complete source repository:** https://github.com/HUSRCF/hackathon/tree/submission/protbind-amd-devmaster
 
-**Source commit:** `c645f56f79d32f1ac054adfce2a2e6ae1ea11d21`
+**Source commit:** `6f1f36d1ccd73acff244e2b5c7e5fbc0d68f18f7`
 
 **Demo video:** [ProtBind_AMD_Radeon_Demo.mp4](ProtBind_AMD_Radeon_Demo.mp4)
 
 **Project Specification:** [ProtBind_Project_Specification.pdf](ProtBind_Project_Specification.pdf)
 
 **Pitch Deck:** [ProtBind_Pitch_Deck.pptx](ProtBind_Pitch_Deck.pptx)
+
+**Poster:** [ProtBind_Poster.png](ProtBind_Poster.png)
 
 ## Summary
 
@@ -40,7 +42,7 @@ application latency.
 | Complete source code | Pinned source repository and commit above |
 | Environment, dependencies, and startup instructions | Source repository `README.md` and `submission/REPRODUCIBILITY.md` |
 | Real Radeon GPU demo video | Attached MP4 above |
-| PPT or poster | Attached pitch deck above |
+| PPT or poster | Attached pitch deck and poster above |
 
 The source repository also includes an English claim matrix, demo script, reproducibility guide,
 machine-readable benchmark receipts, 456 passing tests, and explicit scientific and licensing
