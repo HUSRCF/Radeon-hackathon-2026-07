@@ -10,7 +10,7 @@
 
 **Complete source repository:** https://github.com/HUSRCF/hackathon/tree/submission/protbind-amd-devmaster
 
-**Source commit:** `52075b4f9f488dacedf2d39a3f535d9dab9d4eb7`
+**Source commit:** `5d4b66bca8183ac9bf2c63bd1e4cf56fab4c59c2`
 
 **Demo video:** [ProtBind_AMD_Radeon_Demo.mp4](ProtBind_AMD_Radeon_Demo.mp4)
 
@@ -23,6 +23,8 @@
 **Technical Poster:** [ProtBind_Technical_Poster.png](ProtBind_Technical_Poster.png)
 
 **Final Audited Run Screenshot:** [ProtBind_Final_Dossier_Summary.png](ProtBind_Final_Dossier_Summary.png)
+
+**HipFire Upstream Contributions:** [HIPFIRE_UPSTREAM_CONTRIBUTIONS.md](HIPFIRE_UPSTREAM_CONTRIBUTIONS.md)
 
 The screenshot records an 8/8 accepted, 209.797-second local workflow on a retrospective public
 known-site recording control. It is execution and audit evidence, not binding or activity evidence.
@@ -53,6 +55,7 @@ application latency.
 | Real Radeon GPU demo video | Attached MP4 above |
 | PPT or poster | Attached pitch deck and two posters above |
 | Audited final-run evidence | Attached dossier summary screenshot above |
+| Radeon inference optimization provenance | 16 verified HipFire upstream PRs: 7 merged, 5 closed without merge, 4 open |
 
 The source repository also includes an English claim matrix, demo script, reproducibility guide,
 machine-readable benchmark receipts, 456 passing tests, and explicit scientific and licensing
