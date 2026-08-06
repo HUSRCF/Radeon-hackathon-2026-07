@@ -8,7 +8,7 @@
 
 **Complete source repository:** https://github.com/HUSRCF/hackathon/tree/submission/protbind-amd-devmaster
 
-**Source commit:** `e9f727597765c3ad29406d87aa5ce5ab78196871`
+**Source commit:** `fbfb2eb919ec9960cdfe53184cd18b072b300fee`
 
 **Demo video:** Pending publication before the final submission deadline
 
@@ -43,5 +43,5 @@ application latency.
 | PPT or poster | Attached pitch deck above |
 
 The source repository also includes an English claim matrix, demo script, reproducibility guide,
-machine-readable benchmark receipts, 454 passing tests, and explicit scientific and licensing
+machine-readable benchmark receipts, 456 passing tests, and explicit scientific and licensing
 boundaries for optional third-party components.
