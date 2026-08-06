@@ -6,7 +6,7 @@
 
 **Team:** Hipscope
 
-**Participant:** Huang Siming (solo; GitHub: HUSRCF)
+**Participant:** Huang Siming (HUSRCF)
 
 **Complete source repository:** https://github.com/HUSRCF/hackathon/tree/submission/protbind-amd-devmaster
 
