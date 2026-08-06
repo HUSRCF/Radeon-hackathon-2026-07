@@ -8,7 +8,7 @@
 
 **Complete source repository:** https://github.com/HUSRCF/hackathon/tree/submission/protbind-amd-devmaster
 
-**Source commit:** `c645f56b37ac8c90b95f673411d560331482dab9`
+**Source commit:** `c645f56f79d32f1ac054adfce2a2e6ae1ea11d21`
 
 **Demo video:** [ProtBind_AMD_Radeon_Demo.mp4](ProtBind_AMD_Radeon_Demo.mp4)
 
