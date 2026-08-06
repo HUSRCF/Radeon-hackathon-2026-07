@@ -4,6 +4,8 @@
 
 **Track:** Track 2 — Development & Local Deployment of Private AI Agents
 
+**Team:** Hipscope
+
 **Participant:** Huang Siming (solo; GitHub: HUSRCF)
 
 **Complete source repository:** https://github.com/HUSRCF/hackathon/tree/submission/protbind-amd-devmaster
